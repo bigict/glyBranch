@@ -1,1 +1,1 @@
-# WholeSpectra
+# GIST data
