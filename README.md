@@ -1,1 +1,1 @@
-# GIST data
+# glyIST data
