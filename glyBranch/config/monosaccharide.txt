@@ -1,0 +1,7 @@
+# monosaccharide    Incremental Mass    Identifier
+HexNAc	245.12632200	A
+Hex	204.09977300	B
+NeuAc	361.17366580	D
+NeuGc 391.1842304   F
+Fuc	174.08920840	J
+# Xyl	160.07355840	K
